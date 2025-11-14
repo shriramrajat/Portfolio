@@ -11,8 +11,8 @@ const Portfolio = () => {
       description: "My personal portfolio website built with React and Tailwind CSS.",
       tech: ["React", "Tailwind CSS", "Vite"],
       image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/shriramrajat/Portfolio",
+      demo: "https://portfolio-livid-nine-20.vercel.app/#"
     },
     {
       id: 2,
