@@ -16,21 +16,21 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Project Two",
-      description: "A placeholder for a future project.",
-      tech: ["Python", "HTML", "CSS"],
+      title: "HealthCare",
+      description: "A Comprehensive Healthcare Management Platform.",
+      tech: ["React", "TypeScript", "Firebase"],
       image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/shriramrajat/HealthCare",
+      demo: "https://health-care-six-olive.vercel.app/"
     },
     {
       id: 3,
-      title: "Project Three",
-      description: "A placeholder for a future project.",
-      tech: ["C++", "Data Structures"],
+      title: "MemoryCapsuleAi",
+      description: "A modern, AI-powered application designed to securely capture, organize, and resurface your most valuable memories, thoughts, and conversations, effectively acting as your second digital brain..",
+      tech: ["Node.js", "Firebase"],
       image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/shriramrajat/MeroryCapsuleAi",
+      demo: "https://memorycapsulee.netlify.app/"
     },
   ];
 
