@@ -29,7 +29,7 @@ const Home = () => {
             <div className="flex-1 flex justify-center">
               <div className="w-60 h-60 md:w-80 md:h-80 rounded-full overflow-hidden shadow-xl border-4 border-white">
                 <img 
-                  src="public\profile-photo.jpeg" 
+                  src="/profile-photo.jpeg" 
                   alt="Rajat Shriram" 
                   className="w-full h-full object-cover"
                 />
