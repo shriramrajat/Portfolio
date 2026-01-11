@@ -7,7 +7,7 @@ This is a modern, vibrant, and professional portfolio site to showcase my **back
 
 ## 📍 Live Demo
 
-🚀 **Deployed Link:** _Coming Soon..._  
+🚀 **Deployed Link:**(https://portfolio-livid-nine-20.vercel.app/)  
 Once deployed, the live link will be updated here.
 
 ---
